@@ -45,7 +45,7 @@
                                 <span><?php echo $row->duration; ?></span>
                               </div>
                               <div class="flight-line-b">
-                                <?php echo $row->price; ?>
+                                <?php echo $row->price; ?>&nbsp;uah
                               </div>
                               <div class="clear"></div>
                                           
